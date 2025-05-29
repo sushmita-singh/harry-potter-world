@@ -3,8 +3,6 @@ from tkinter import font
 from tkinter import ttk  # Import ttk for themed widgets
 import random
 from quote_generator import get_random_quote
-import tkinter
-print(tkinter.TkVersion)
 
 class QuoteApp:
     def __init__(self):
@@ -83,6 +81,8 @@ class QuoteApp:
             quote = get_random_quote()
             house_colors = ["#740001", "#2A623D", "#222F5B", "#EBA937"]
             random_color = random.choice(house_colors)
+            self.quote_label.config(text=quote, fg=random_color) 
+            print(f"Displayed quote: {quote}")  # Debugging output
         except Exception as e:
             error_msg = f"Error loading quote: {str(e)}"
             self.quote_label.config(text=error_msg, fg="#FF0000")
