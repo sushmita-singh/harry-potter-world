@@ -3,8 +3,6 @@ from tkinter import font
 from tkinter import ttk  # Import ttk for themed widgets
 import random
 from quote_generator import get_random_quote
-import tkinter
-print(tkinter.TkVersion)
 
 class QuoteApp:
     def __init__(self):

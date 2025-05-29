@@ -6,8 +6,8 @@ def get_random_quote():
     quotes_path = os.path.join(script_dir, "quotes.txt")
     
     try:
-        with open(quotes_path, "r") as file:
-            quotes = file.readlines()
+        with open("quotes/quotes.txt", "r", encoding="utf-8") as f:
+            quotes = f.readlines()
         quote = random.choice(quotes).strip()
         return quote
     except Exception as e:
