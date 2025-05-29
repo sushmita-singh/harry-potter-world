@@ -83,6 +83,9 @@ class QuoteApp:
             quote = get_random_quote()
             house_colors = ["#740001", "#2A623D", "#222F5B", "#EBA937"]
             random_color = random.choice(house_colors)
+            self.quote_label.config(text=quote, fg=random_color)
+            self.quote_label.update_idletasks()  # Ensure the label is updated
+            print(f"Displaying quote: {quote}")  # Debug statement
         except Exception as e:
             error_msg = f"Error loading quote: {str(e)}"
             self.quote_label.config(text=error_msg, fg="#FF0000")
