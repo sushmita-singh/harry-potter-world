@@ -1,0 +1,63 @@
+[
+    {
+      "title": "Harry Potter and the Sorcerer's Stone",
+      "image": "sorcerers_stone.jpg",
+      "goodreads_url": "https://www.goodreads.com/book/show/3.Harry_Potter_and_the_Sorcerer_s_Stone",
+      "summary": "Harry Potter discovers he is a wizard on his 11th birthday and attends Hogwarts School of Witchcraft and Wizardry."
+    },
+    {
+      "title": "Harry Potter and the Chamber of Secrets",
+      "image": "chamber_of_secrets.jpg",
+      "goodreads_url": "https://www.goodreads.com/book/show/15881.Harry_Potter_and_the_Chamber_of_Secrets",
+      "summary": "Harry returns to Hogwarts and investigates a series of attacks linked to a mysterious chamber hidden in the school."
+    },
+    {
+      "title": "Harry Potter and the Prisoner of Azkaban",
+      "image": "prisoner_of_azkaban.jpg",
+      "goodreads_url": "https://www.goodreads.com/book/show/5.Harry_Potter_and_the_Prisoner_of_Azkaban",
+      "summary": "Harry learns that dangerous prisoner Sirius Black has escaped Azkaban and may be coming for him."
+    },
+    {
+      "title": "Harry Potter and the Goblet of Fire",
+      "image": "goblet_of_fire.jpg",
+      "goodreads_url": "https://www.goodreads.com/book/show/6.Harry_Potter_and_the_Goblet_of_Fire",
+      "summary": "Harry is unexpectedly entered into the dangerous Triwizard Tournament and faces deadly challenges."
+    },
+    {
+      "title": "Harry Potter and the Order of the Phoenix",
+      "image": "order_of_the_phoenix.jpg",
+      "goodreads_url": "https://www.goodreads.com/book/show/2.Harry_Potter_and_the_Order_of_the_Phoenix",
+      "summary": "Harry and friends form a secret group to fight against the dark forces as the Ministry denies Voldemort's return."
+    },
+    {
+      "title": "Harry Potter and the Half-Blood Prince",
+      "image": "half_blood_prince.jpg",
+      "goodreads_url": "https://www.goodreads.com/book/show/4.Harry_Potter_and_the_Half_Blood_Prince",
+      "summary": "Harry discovers a mysterious book and learns more about Voldemort’s past while dark forces close in."
+    },
+    {
+      "title": "Harry Potter and the Deathly Hallows",
+      "image": "deathly_hallows.jpg",
+      "goodreads_url": "https://www.goodreads.com/book/show/136251.Harry_Potter_and_the_Deathly_Hallows",
+      "summary": "Harry, Ron, and Hermione leave Hogwarts to find and destroy Voldemort’s Horcruxes in the final battle."
+    },
+    {
+      "title": "The Auction",
+      "image": "the_auction.jpg",
+      "goodreads_url": "https://www.goodreads.com/book/show/53912089-the-auction?ac=1&from_search=true&qid=nIdqFFLLff&rank=1",
+      "summary": "A popular Harry Potter fanfiction about a magical auction that turns into a dark and thrilling adventure."
+    },
+    {
+      "title": "Harry Potter and the Methods of Rationality",
+      "image": "methods_of_rationality.jpg",
+      "goodreads_url": "https://www.goodreads.com/book/show/10016013-harry-potter-and-the-methods-of-rationality?ref=nav_sb_ss_1_44",
+      "summary": "Harry is raised in a scientific, rational environment and approaches magic with logic and skepticism."
+    },
+    {
+      "title": "James Potter and the Hall of Elders' Crossing",
+      "image": "hall_of_elders_crossing.jpg",
+      "goodreads_url": "https://www.goodreads.com/book/show/2548866.James_Potter_and_the_Hall_of_Elders_Crossing?ref=nav_sb_ss_1_45",
+      "summary": "A fanfiction following James Potter's adventures in the Hall of Elders' Crossing, full of magic and intrigue."
+    }
+  ]
+  
